@@ -1,0 +1,7 @@
+My name is Ethan Turkeltaub, and I'm a senior at Farmington High School. For the past six years, I've been experimenting with programming, web development in particular. In the past, I have had several clients for whom I have created and maintained web presences. In the past two summers, I was a technology intern at [Fanzter](http://fanzter.com), a Unionville-based web startup, and this year I am a full-fledged web developer helping them create their next new product.
+
+I have also put these self-acquired skills to use at Farmington High School. By replacing the nearly ten-year-old clock system with a new, user-intuitive system, I helped Audio-Visual Support and the student body by making it easier to update and read information pertaining to everyday life at school.
+
+Next year, I will be studying Computer Science at Marist College in Poughkeepsie, New York. Their ongoing collaboration with IBM (who is three miles away) and industry leaders will give me the leg up on other computer science students and job candidates across the country.
+
+Programming started as a hobby for me, but it is slowly but surely turning into a career for me. I sincerely enjoy doing it, and I hope I continue to enjoy it in the future.
