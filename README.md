@@ -1,4 +1,3 @@
-capstone
-========
+# Capstone
 
-All of the Capstone stuff.
+This is all of the stuff I need to get the credit for Capstone.
