@@ -1,14 +1,23 @@
-### Abstract
+# Noted
 
-For custom capstone, I looked at the problems that students have that could be solved by a web application and I created Noted, a service that helps organize and collaborate on research projects. Initially, I had lofty goals for what Noted could be, but as time went on and I fell further and further behind, I started stripping away extraneous features and created a site that is simpler and better at what it _does_ do. Notes are central to Noted, and less so are your citations. Rather than focus on the source of your information, it is understanding and  retaining that information that is important. Noted aims to make this skill easy to anyone who goes to the site, despite their age.
+Ethan Turkeltaub
 
-### Noted
+
+## Abstract
+
+For custom capstone, I looked at the problems that students have that could be solved by a web application. I created Noted, a service that helps organize and collaborate on research projects. Initially, I had lofty goals for what Noted could be, but as time went on and I fell further and further behind, I started stripping away extraneous features and created a site that is simpler and better at what it _does_ do. Notes are central to Noted, and less so are your citations. Rather than focus on the source of your information, it is understanding and  retaining that information that is important. Noted aims to make this skill easy to anyone who goes to the site, despite their age.
+
+## Noted
 
 For custom capstone, I chose the innovation pathway and created Noted, a web service that allows for students to organize and collaborate on research projects. I set out with the goal to take away the pain students associate with note taking and citing sources by making the interface disappear — it should be easy for anyone to see the site and instantly know what to do.
 
 I have quite a bit of previous experience with web design and development. Over the past two summers, I was a technology intern at Fanzter, a Unionville-based web startup that has multiple products that are used by thousands of people. I also created the Farmington High School Clock, replacing a nearly ten-year-old system that displays the day's schedule, current information, and time.
 
-The idea for Noted came from frustration with current solutions to the problem of research management. Initially, I had high hopes for the features I could add that would potentially help students like Google Docs and Dropbox integration, line-by-line commenting on notes, and others. However, as time progressed, I realized how little time I actually had — experienced web development teams could not finish the website I envisioned in the time allotted. Therefore, I had to begin stripping away features. Overall, I believe this is a good thing for the service — the less there is, the less the end-user has to comprehend.
+The idea for Noted came from frustration with current solutions to the problem of research management. Initially, I had high hopes for the features I could add that would potentially help students like Google Docs and Dropbox integration, line-by-line commenting on notes, and others.
+
+I spoke with faculty and students to see what exactly they wanted from a research management tool. Most of the answer varied, but a common theme was that both groups wanted it easier for them — the faculty wanted to make it easier to quickly browse through their class's projects, and the students wanted it easier to take notes or cite sources and move on. I decided to focus the site for use by the students. After all, they are the ones who are ultimately doing the research. I tried to make the use case for the service as ambiguous as possible. It should be good for students as well as researchers — for most users, the teachers tools would not be necessary. I began to create a list of features that I will actually implement in the site.
+
+However, as time progressed, I realized how little time I actually had — experienced web development teams could not finish the website I envisioned in the time allotted. Therefore, I had to begin stripping away features. Overall, I believe this is a good thing for the service — the less there is, the less the end-user has to comprehend.
 
 > Good design is as little design as possible. Less is more – because it concentrates on the essential aspects and the products are not burdened with non-essentials. Back to purity, back to simplicity.
 > 
@@ -34,3 +43,13 @@ The web development community is large, and the amount of resources that are ava
 At the very fundamental level, GitHub is an interface to the version-control system Git (a way for programmers to keep track of the history and changes in their code). But, a community has flourished around GitHub. Their emphasis on open-source makes it easy for anyone to create a project and show it to the world. There is also a push for collaboration between users, and everyone is encouraged to contribute to their favorite projects.  The wealth of code on GitHub (nearly 5 million code projects) makes it easy for me to look and see solutions to problems that I wouldn't be able to solve on my own. It is also for me to get help on my code — if I wanted to show someone my code, I can just pull up the GitHub project and they can browse the code. Additionally, people can contribute to my project. For example, I requested help of Dirk Gadsden, another web developer, with Scholar, and he was able to write code and contribute to my project.
 
 Stack Overflow is another community for programmers, but instead of code hosting, it is a question and answer site. Chances are, someone else has had the same problem you've had and had it answered on Stack Overflow. If I am particularly stumped on a problem, I can ask on Stack Overflow for help and get a solution within hours.
+
+Another vital resource was the engineers at Fanzter, the startup I've worked at the past two summers. They are seasoned experts in high-traffic web applications, and were able to point out holes in my code and ways I can improve the user experience.
+
+This whole experience has given me a look at just what it takes to make a fully-featured web application. Though it was indeed a lot of work, I think it was worth it — and enjoyable. It is something that I have done and would like to continue to do in the future.
+
+To do…
+* MLA citations(?)
+* Make less technical
+* More emphasis on what I learned
+* Have someone unfamiliar with the project proofread it
