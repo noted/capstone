@@ -21,7 +21,7 @@ The idea for Noted came from frustration with current solutions to the problem o
 
 Initially, I had high hopes for the features I could add that would potentially help students, such as Google Docs and Dropbox integration, line-by-line commenting on notes, and others.
 
-I spoke with faculty and students to see what exactly they wanted from a research management tool. Most of the answer varied, but a common theme was that both groups wanted it to be easier for them — the faculty wanted to make it easier to quickly browse through their class's projects, and the students wanted it easier to take notes or cite sources and move on. I decided to focus the site for use by the students. After all, they are the ones who are ultimately doing the research. I tried to make the use case for the service as ambiguous as possible: this means that the service does not have a specific way you "should" use it. It is simply up to the user as to how they use the tools given to them. It should be good for students as well as researchers — for most users, the teachers tools would not be necessary. I began to create a list of features that I will actually implement in the site.
+I spoke with faculty and students to see what exactly they wanted from a research management tool. Most of the answer varied, but a common theme was that both groups wanted it to be easier for them — the faculty wanted to make it easier to quickly browse through their class's projects, and the students wanted it easier to take notes or cite sources and move on. I decided to focus the site for use by the students. After all, they are the ones who are ultimately doing the research. I tried to make the use case for the service as ambiguous as possible: this means that the service does not have a specific way you "should" use it. It is simply up to the user as to how they use the tools given to them. It should be good for students as well as researchers — for most users, the teachers tools would not be necessary. I began to create a list of features that I will actually implement in the site. This needed to be a realistic list of what I could actually get done in nine months — I could not simply list my "dream" features. This is important, especially in web development. Creating a realistic scope of work plays a part in nearly every project.
 
 ## "Good" Design
 
@@ -33,7 +33,7 @@ However, as time progressed, I realized how little time I actually had — exper
 
 Internationally-acclaimed industrial designer Dieter Rams laid the principles of modern aesthetics. He believes that less is more — by stripping away what is unnecessary, you create a better user experience.
 
-I used this mindset as I continued work on Noted. This shaped my work in both the design and website as well as the code I wrote. In Scholar, the external library I created to deal with the creation of MLA citations, I embodied this ideal — I made it easy for someone else to look at the code and instantly understand what every piece does.
+I used this mindset as I continued work on Noted. This shaped my work in both the design and website as well as the code I wrote. In Scholar, the external library I created to deal with the creation of MLA citations, I embodied this ideal — I made it easy for someone else to look at the code and instantly understand what every piece does. Knowing how to strip away features until you're left with the bare essentials is important in all web projects.
 
 ## Scholar
 
@@ -71,7 +71,3 @@ This whole experience has given me a look at just what it takes to make a fully-
 
 _GitHub_. GitHub, Inc., n.d. Web. 06 May 2013. <http://github.com/>.
 _StackOverflow_. Stack Exchange, Inc., n.d. Web. 06 May 2013. <http://stackoverflow.com/>.
-
-
-To do…
-* Make less technical
